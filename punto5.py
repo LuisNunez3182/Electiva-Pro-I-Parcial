@@ -1,3 +1,8 @@
+# Punto 5
+# Se desea registrar productos y sus precios utilizando un diccionario.
+# El programa debe permitir ingresar al menos 3 productos con su respectivo precio. Luego, debe recorrer el diccionario
+# y mostrar todos los productos con sus precios, el producto más costoso y el precio promedio de los productos.
+
 Productos = {}
  
 CantidadProductos = int(input("¿Cuántos productos desea registrar? (minimo 3): "))

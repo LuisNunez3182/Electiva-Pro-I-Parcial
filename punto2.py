@@ -1,3 +1,7 @@
+# Punto 2
+# Se tiene una cadena de texto ingresada por el usuario. Desarrolle un programa que recorra la cadena como iterable
+# y determine la cantidad total de caracteres, la cantidad de vocales (a, e, i, o, u) y la cantidad de consonantes.
+
 cadena = input("Ingrese una cadena: ")
 
 while not cadena.replace(" ", "").isalpha():

@@ -1,3 +1,4 @@
+# Punto 4
 #Se tiene una lista de números enteros. 
 # Desarrolle un programa que genere una nueva lista donde cada elemento sea el cuadrado del valor original. 
 # Luego, muestre la lista resultante.
